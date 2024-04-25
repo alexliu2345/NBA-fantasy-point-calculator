@@ -1,7 +1,10 @@
 #NBA-fantasy-point-calculator
 
 A way to calculate the value of players for my specific fantasy basketball league. Shows examples of pandas dataframe manipulation, data cleaning, and simple ETL processes
+
 Data taken from the 2022-23 NBA Season
+
+Dataframe uploaded to MongoDB
 
 Seasonal averages/stats: Yahoo Fantasy Basketball
 
